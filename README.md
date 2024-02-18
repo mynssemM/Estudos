@@ -60,6 +60,6 @@ Se você encontrar erros, melhorias ou tiver sugestões, fique à vontade para a
 
 - **Nome:** gabriel
 - **E-mail:** gabrielmynssem.e@gmail.com
-- **LinkedIn:** [linkedin](www.linkedin.com/in/gabriel-mynssem)
+- **LinkedIn:** [linkedin](https://www.linkedin.com/in/gabriel-mynssem)
 
 Agradeço por explorar meus estudos em PHP! 🚀

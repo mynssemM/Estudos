@@ -58,8 +58,8 @@ Se você encontrar erros, melhorias ou tiver sugestões, fique à vontade para a
 
 ## Contato
 
-- **Nome:** Seu Nome
-- **E-mail:** seu.email@example.com
-- **LinkedIn:** [Seu Perfil LinkedIn](https://www.linkedin.com/in/seuperfil)
+- **Nome:** gabriel
+- **E-mail:** gabrielmynssem.e@gmail.com
+- **LinkedIn:** [linkedin](www.linkedin.com/in/gabriel-mynssem)
 
 Agradeço por explorar meus estudos em PHP! 🚀

@@ -1,0 +1,15 @@
+{
+    "name": "mucilon/course",
+    "autoload": {
+        "psr-4": {
+            "Mucilon\\Course\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mynssemM",
+            "email": "mynssemgabriel@gmail.com"
+        }
+    ],
+    "require": {}
+}

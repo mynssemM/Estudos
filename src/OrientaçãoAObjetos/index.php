@@ -2,29 +2,47 @@
 
 namespace Mucilon\Course\OrientaçãoAObjetos;
 
-use Mucilon\course\tiposDeDados\Pessoa;
+use Mucilon\Course\OrientaçãoAObjetos\exercicios\Carro;
 
-class Teste
+class Index
 {
-    function falar()
-    {
-        echo "Olá, eu sou um objeto <br>";
-    }
+}
+class Animal
+{
+}
+class Professor extends Index
+{
+}
+$marcos = new Index;
 
-    function somar($x, $y)
-    {
-        echo $x + $y . "<br>";
-    }
+$turca = new Animal;
+
+if ($marcos instanceof Index) {
+    echo "Marcos é um Humano <br>";
+} else {
+    echo "Marcos não é um Humano <br>";
+}
+if ($turca instanceof Index) {
+    echo "A turca é um Humano <br>";
+} else {
+    echo "A turca não é um Humano <br>";
 }
 
-$matheus = new Teste;
+$pedro = new Professor;
 
-$matheus->falar();
-$matheus->falar();
+if ($pedro instanceof Professor) {
+    echo "Pedro é um Professor <br>";
+} else {
+    echo "Pedro não é um Humano <br>";
+}
+if ($pedro instanceof Index) {
+    echo "Pedro é um Humano <br>";
+} else {
+    echo "Pedro não é um Humano <br>";
+}
 
-$joao = new Teste;
-
-$joao->falar();
-
-$matheus->somar(2, 2);
-$joao->somar(10, 20);
+if ($turca instanceof Professor) {
+    echo "A turca é um Humano <br>";
+} else {
+    echo "A turca não é um Professor <br>";
+}
